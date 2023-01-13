@@ -1,6 +1,6 @@
 
 // Hello World!
 
-console.log("Hello, Peter!"<LB>);
+console.log("Hello, Peter!");
 
-console.log("Hallo, Daniel!")
+console.log("Hallo, Daniel!");
